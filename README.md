@@ -1,1 +1,3 @@
-hola
+Hola esto nomas lo uso para preservar mis archivos .mid LOL
+
+No se usar github...
